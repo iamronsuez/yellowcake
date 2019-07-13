@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
+title: Just 4 food
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: Acceso a las mejores comidas a solo unos cuantos clicks.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
